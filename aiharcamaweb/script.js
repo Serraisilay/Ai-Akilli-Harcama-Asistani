@@ -1,4 +1,4 @@
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "SENİN_API_KEY";
 
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('analizEtButon').addEventListener('click', analizEt);
