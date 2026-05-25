@@ -1,4 +1,5 @@
 💸 AI Harcama Asistanı
+
 AI Harcama Asistanı, internette alışveriş yaparken bütçenizi korumanıza yardımcı olan, yapay zekâ destekli ve modern tasarımlı bir Google Chrome uzantısıdır. Girdiğiniz sepet tutarına göre anlık dinamik risk analizi yapar ve finansal kararlarınızı sorgulamanız için size samimi bir sohbet ortamı sunar.
 
 - Özellikler
