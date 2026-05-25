@@ -1,8 +1,8 @@
-💸 AI Harcama Asistanı (Chrome Extension)
+💸 AI Harcama Asistanı
 AI Harcama Asistanı, internette alışveriş yaparken bütçenizi korumanıza yardımcı olan, yapay zekâ destekli ve modern tasarımlı bir Google Chrome uzantısıdır. Girdiğiniz sepet tutarına göre anlık dinamik risk analizi yapar ve finansal kararlarınızı sorgulamanız için size samimi bir sohbet ortamı sunar.
 
 - Özellikler
-Dinamik Risk Analizi: Girdiğiniz sepet tutarına göre harcamayı anlık olarak üç farklı kategoride değerlendirir ve görsel bir bar (ilerleme çubuğu) ile risk durumunu gösterir:
+Dinamik Risk Analizi: Girdiğiniz sepet tutarına göre harcamayı anlık olarak üç farklı kategoride değerlendirir ve görsel bir ilerleme çubuğu ile risk durumunu gösterir:
 
 🟢 Düşük Risk: 2000 TL altı harcamalar için.
 
